@@ -1,0 +1,21 @@
+2025-04-28 23:03:54 - Webserver erfolgreich gestartet.
+2025-04-28 23:03:54 - Datei erfolgreich kopiert: index.html -> index_backup.html
+[2025-04-28 23:19:14] INFO: Starte Apache-Webserver
+[2025-04-28 23:19:14] SUCCESS: Apache erfolgreich gestartet
+[2025-04-28 23:19:14] INFO: Kopiere Webseite von /mnt/c/Users/Marcus/OneDrive - Sky E-Red/Desktop/Prüfung nach /var/www/html
+[2025-04-28 23:19:14] SUCCESS: Webseiten-Dateien erfolgreich kopiert
+[2025-04-28 23:19:14] INFO: Beende Protokollierung
+[2025-04-28 23:35:20] SUCCESS: Apache erfolgreich gestartet.
+[2025-04-28 23:35:20] SUCCESS: Apache erfolgreich gestoppt.
+[2025-04-28 23:35:47] ERROR: Fehler beim Starten von Apache.
+[2025-04-28 23:35:47] SUCCESS: Apache erfolgreich gestoppt.
+[2025-04-28 23:45:32] SUCCESS: Apache starten erfolgreich.
+[2025-04-28 23:45:32] SUCCESS: Apache stoppen erfolgreich.
+[2025-04-28 23:49:38] ERROR: Apache starten fehlgeschlagen.
+[2025-04-28 23:49:38] SUCCESS: Apache stoppen erfolgreich.
+2025-04-29 09:56:59 - Webserver erfolgreich gestartet.
+2025-04-29 09:56:59 - Datei erfolgreich kopiert: index.html -> index_backup.html
+2025-04-29 10:25:56 - Webserver erfolgreich gestartet.
+2025-04-29 10:25:56 - Datei erfolgreich kopiert: index.html -> index_backup.html
+2025-04-29 10:30:39 - Webserver erfolgreich gestartet.
+2025-04-29 10:30:39 - Datei erfolgreich kopiert: index.html -> index_backup.html
