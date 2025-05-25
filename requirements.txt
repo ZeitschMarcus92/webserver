@@ -1,0 +1,1 @@
+pandas           # Data manipulation and analysis ( Paket )

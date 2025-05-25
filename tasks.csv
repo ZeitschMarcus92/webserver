@@ -1,0 +1,6 @@
+title,description,priority,due_date,status
+Testprobe,Ob alles funktioniert,Niedrig,22.05.2025,Offen
+Test,Projekt,Hoch,23.05.2025,In Arbeit 
+test 2,überprüfung,Mittel,xx.xx.xxxx,Offen
+test,meeting kontrolle,Niedrig,xx.xx.xxxx,Offen
+Endphase,Letzter Test,Hoch,25.05.2025,Erledigt
